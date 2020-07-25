@@ -1,4 +1,2 @@
-first pipeline
-second pipeline
-test
+testing deploy
 
